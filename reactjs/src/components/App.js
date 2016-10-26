@@ -32,6 +32,7 @@ class Contacts extends React.Component {
                                               key={i}/>);
                     })}
                 </ul>
+                <ContactCreator/>
             </div>
         );
     }
