@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ex_em.html",
+			"settings":
+			{
+				"buffer_size": 1197,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html>\n<head>\n<style>\np{font-size:64px}\n\n.name{color:blue}\n.hex{color:#0000ff} /* #00f */\n.rgb{color:rgb(0,0,255)}\n.rgba{color:rgba(0,0,255,0.5)}\n</style>\n</head>\n<body>\n\t<p class=\"name\">hello</p>\n\t<p class=\"hex\">hello</p>\n\t<p class=\"rgb\">hello</p>\n\t<p class=\"rgba\">hello</p>\n</body>",
+			"file": "ex_color.html",
+			"file_size": 318,
+			"file_write_time": 131351722540000000,
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_opacity.html",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_font.html",
+			"settings":
+			{
+				"buffer_size": 895,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n<style>\nul.circle {list-style-type: circle;}\nul.square {list-style-type: square;}\nol.upper {list-style-type: upper-roman;}\nol.lower {list-style-type: lower-alpha;}\n</style>\n</head>\n<body>\n\n<p>Example of unordered lists:</p>\n\n<ul class=\"circle\">\n  <li>Coffee</li>\n  <li>Tea</li>\n  <li>Coca Cola</li>\n</ul>\n\n<ul class=\"square\">\n  <li>Coffee</li>\n  <li>Tea</li>\n  <li>Coca Cola</li>\n</ul>\n\n<p>Example of ordered lists:</p>\n\n<ol class=\"upper\">\n  <li>Coffee</li>\n  <li>Tea</li>\n  <li>Coca Cola</li>\n</ol>\n\n<ol class=\"lower\">\n  <li>Coffee</li>\n  <li>Tea</li>\n  <li>Coca Cola</li>\n</ol>\n</body>\n</html>\n",
+			"file": "ex_list-style.html",
+			"file_size": 669,
+			"file_write_time": 131351735120000000,
+			"settings":
+			{
+				"buffer_size": 626,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_decoration.html",
+			"settings":
+			{
+				"buffer_size": 373,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_indent.html",
+			"settings":
+			{
+				"buffer_size": 422,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n<style>\nbody{width:500px;}\np{\n\tfont-size:16px;\n\t\n\tpadding-left:1em;\n\ttext-indent:-1em;\t\n}\n</style>\n</head>\n<body>\n    <p>1. 등록된 계정과목의 거래처는 하단 자동분개시 카드사 거래처로 적용됩니다.</p>\n    <p>2. 화면 상단 거래처를 변경하더라도 하단분개는 [채권계정카드사설정]에 등록된 채권 계정과목은 변경된 거래처로 반영되지 않습니다.</p>\n</body>\n</html>\n",
+			"file": "ex_indent2.html",
+			"file_size": 490,
+			"file_write_time": 131352503280000000,
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_whitespace.html",
+			"settings":
+			{
+				"buffer_size": 777,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_word-spacing.html",
+			"settings":
+			{
+				"buffer_size": 445,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_word-wrap.html",
+			"settings":
+			{
+				"buffer_size": 331,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_overflow.html",
+			"settings":
+			{
+				"buffer_size": 1094,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex_textoverflow.html",
+			"settings":
+			{
+				"buffer_size": 1276,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kimss/prj/study/ex_rem.html",
+		"/Users/kimss/prj/study/ex5.html",
+		"/Users/kimss/prj/study/ex4.html",
+		"/Users/kimss/prj/study/ex3.html",
+		"/Users/kimss/prj/study/ex2.html",
+		"/Users/kimss/prj/study/ex1.html",
+		"/Users/kimss/prj/study/ex_opacity.html",
+		"/Users/kimss/prj/study/ex_list-style.html",
+		"/Users/kimss/prj/study/ex_overflow.html",
+		"/Users/kimss/prj/study/ex_word-wrap.html",
+		"/Users/kimss/prj/study/ex_word-spacing.html",
+		"/Users/kimss/prj/study/ex_whitespace.html",
+		"/Users/kimss/prj/study/ex_font.html",
+		"/Users/kimss/prj/study/ex_color.html",
+		"/Users/kimss/git/html/css/dialog.css",
+		"/Users/kimss/git/html/html/dialog/sao_dialog_01.html",
+		"/Users/kimss/git/html/html/dialog/LUX_basic_dialog.html",
+		"/Users/kimss/git/html/html/dialog/cs_dialog_03.html",
+		"/Users/kimss/git/html/html/dialog/ca_dialog_01.html",
+		"/Users/kimss/git/html/html/dialog/co_dialog_0114.html",
+		"/Users/kimss/git/html-css/svc/in.css",
+		"/Users/kimss/git/html/css/svc/sao.css",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/html/in/in_2_01.html",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/css/login.css",
+		"/Users/kimss/git/html/index.html",
+		"/Users/kimss/git/svc-in/src/css/common.css",
+		"/Users/kimss/prj/nizbridge/random.html",
+		"/Users/kimss/Desktop/httpd-vhosts.conf",
+		"/Users/kimss/git/svc-in/index.html",
+		"/Users/kimss/git/svc-in/html/in/index.html",
+		"/Users/kimss/Desktop/hosts",
+		"/Users/kimss/git/svc-in/common_index.css",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/html/in/index.html",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/css/rnb.css",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/html/include/inc_lnb.html",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/html/js/jquery.include.js",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/html/include/inc_header.html",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/html/include/inc_actionbar.html",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/css/gnb.css",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/css/common.css",
+		"/Users/kimss/git/html/src/sky_platform/SVC/html/index.html",
+		"/Users/kimss/git/html/src/sky_platform/SVC/common/css/common.css",
+		"/Users/kimss/git/html/src/sky_platform/SVC/common/css/nanumsquare.css",
+		"/Users/kimss/git/html/src/sky_platform/SVC/IN_전자세금계산서/html/css/in.css",
+		"/private/etc/apache2/httpd.conf",
+		"/usr/include/apache2/httpd.h"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/kimss/git/html/html/dialog",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<path d=\"M0.036,22.257L10.292,12L0.036,1.743l1.71-1.711L12,10.288L22.26,0.029l1.71,1.711L13.71,12l10.26,10.257l-1.71,1.709L12,13.71L1.744,23.966L0.036,22.257z\"/>",
+			"<svg fill=\"#ccc\" width=\"24\" height=\"24\">\n                                    <path d=\"M0.036,22.257L10.292,12L0.036,1.743l1.71-1.711L12,10.288L22.26,0.029l1.71,1.711L13.71,12l10.26,10.257l-1.71,1.709L12,13.71L1.744,23.966L0.036,22.257z\"/>\n                                </svg>",
+			"src",
+			"dash",
+			"작성일자",
+			"../imgs/common/sp_rnb.png",
+			"../img/sp_rnb.png",
+			"../../common/img/",
+			"linkset"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/src/www/imgs/common/sp_rnb.png",
+			"../imgs/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ex_em.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 161.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ex_color.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ex_opacity.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ex_font.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ex_list-style.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ex_decoration.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ex_indent.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ex_indent2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "ex_whitespace.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								674,
+								674
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "ex_word-spacing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "ex_word-wrap.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "ex_overflow.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "ex_textoverflow.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "study.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
